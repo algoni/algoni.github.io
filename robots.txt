@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://algoni.github.io/sitemap.xml 
